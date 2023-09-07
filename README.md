@@ -1,4 +1,4 @@
-Hello my name is Johnny Melo
+✨ Hello my name is Johnny Melo
 👀 I'm interested in Software Testing and Quality Assurance
 🌱 I'm currently learning about Selenium WebDriver test automation, written in BDD in Gherkin language, C# and JavaScript
 💞️ I try to collaborate on the quality of your tests
