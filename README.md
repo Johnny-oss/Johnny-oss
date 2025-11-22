@@ -7,17 +7,17 @@
 
 # 👋 Olá, eu sou Johnny Melo
 
-Sou **QA Engineer** apaixonado por automação, qualidade de software e integração entre backend e frontend.  
-Tenho experiência com **Cypress**, **testes de API**, criação de massa de dados, CI/CD e boas práticas de desenvolvimento.
+Sou **QA Engineer** apaixonado por automação, qualidade de software e sou graduado em Análise e Desenvolvimento de Sistemas. 
+Tenho experiência com **Cypress**, **testes de API**, bancos de dados, git e boas práticas de desenvolvimento.
 
 ---
 
 ## 🔧 Minhas Skills
 
 - Testes E2E com **Cypress**  
-- Testes de API via `cy.request()`  
-- Mocks e espionagem com `cy.intercept()`  
-- Automação com **Faker** para dados dinâmicos  
+- Testes de API com Cypress, Postman, SoapUi 
+- Selenium WebDriver, JMeter
+- Bancos de dados: Oracle, PostgreSQL, SQL Server
 - Integração contínua e workflows com **GitHub Actions**  
 - Versionamento com **Git**  
 - JavaScript / Node.js
@@ -29,10 +29,11 @@ Tenho experiência com **Cypress**, **testes de API**, criação de massa de dad
 Aqui estão três dos meus repositórios mais recentes no GitHub — projetos que representam bem minhas habilidades e experiência:
 
 | Projeto | Descrição |
-|---|---|
-| **quintal-barbearia-app** | App mobile (React Native + Expo) para agendamento e controle de estoque de barbearia. Integração com SQLite e testes E2E via Cypress para fluxo de agendamento e controle de produtos. |  
-| **automation-cypress-serverest** | Automação de testes para a API e UI do *Serverest*. Uso de `cy.request()`, `cy.intercept()` e Faker para geração de massa de dados e validação de vários cenários. |  
-| **qa-automation-cypress** | Projeto focado em automação de testes com Cypress, criação de comandos customizados, estrutura de pastas organizada e uso de fixtures e mocks para tornar os testes mais reutilizáveis e eficientes. |
+|---|---|  
+| **E-commerce_ServeRest** | Automação de testes para a API e UI do *Serverest*. Uso de `cy.request()`, `cy.intercept()` e Faker para geração de massa de dados e validação de vários cenários. |  
+| **Postman_Collection_TestesAPI_ServeRest** | Collection do Postman que possui endpoints de e-commerce, Tests e Asserts realizados e utilização do Newman com integração do GitHub Actions. |
+| **App-BarbeariaAgendamentos** | App mobile (React Native + Expo) para agendamento e controle de estoque de barbearia, com Integração com SQLite. |
+| **Forms_Cotacao_Veiculos** | Preenchimento de Formulário utilizando Selenium Webdriver com C# e Page Objects. |
 
 > Para ver todos os meus projetos, visite minha página de repositórios: [Johnny-oss no GitHub](https://github.com/Johnny-oss)
 
@@ -50,5 +51,5 @@ npx cypress open
 # Ou para rodar em modo headless:  
 npx cypress run  
 
-
+📫 Para saber mais: Linkedin - https://www.linkedin.com/in/johnnysoaresdemelo/
 
