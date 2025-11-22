@@ -49,11 +49,13 @@ cd nome-do-projeto
 npm install  
 npx cypress open  
 # Ou para rodar em modo headless:  
-npx cypress run  
+npx cypress run  ```
+
+---
 
 
+## 📬 Para saber mais
 
-
-
-📫 Para saber mais: Linkedin - https://www.linkedin.com/in/johnnysoaresdemelo/
+Linkedin - https://www.linkedin.com/in/johnnysoaresdemelo/
+E-mail - johnny.soares15@gmail.com
 
